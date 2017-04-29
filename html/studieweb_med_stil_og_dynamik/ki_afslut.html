@@ -3,6 +3,33 @@
     <head>
         <meta charset="utf-8">
         <title>How to Ballon</title>
+        <style>
+            main {
+                max-width: 595px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            main table{
+                width: 100%;
+                border-spacing: 0;
+                border-collapse: collapse;
+                border: 1px solid #000;
+            }
+            main td{
+                vertical-align: top;
+                border-bottom: 1px solid #000;
+                border-left: 1px solid #000;
+                padding: 5px;
+            }
+            main td img{
+                max-width: 198px;
+            }
+            main td.tableHeading {
+                text-align: center;
+                background-color: #9fc5e8;
+            }
+        </style>
+
         <script type="text/javascript" async
           src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
         </script>
@@ -120,7 +147,10 @@
                 nyttige formler for både Matematik og Fysik.</p>
             <h3>Matematik</h3>
             <table>
-                <tr><td>Trigonometri</td></tr>
+                <tr>
+                    <td class="tableHeading" colspan="2"><b>Trigonometri</b>
+                    </td>
+                </tr>
                 <tr>
                     <td>
                         <i>Sinus, cosinus, tagens</i>
@@ -140,7 +170,7 @@
                         alt="Trekant med bogstaver på sider og vinkler for at
                         illustrere Pythagoras' læresætning."></td>
                 </tr>
-                <tr><td>Cirkel</td></tr>
+                <tr><td class="tableHeading" colspan="2"><b>Cirkel</td></b></tr>
                 <tr>
                     <td>
                         <i>Omkreds</i>
@@ -159,7 +189,8 @@
                     <td><img src="ki_afslut/bue.png" alt="Cirkel med
                         illustration af buelængde formel."></td>
                 </tr>
-                <tr><td>Overflader</td></tr>
+                <tr><td class="tableHeading" colspan="2"><b>Overflader</b></td>
+                </tr>
                 <tr>
                     <td>
                         <i>Den krumme overflade af en keglestub</i>
@@ -178,7 +209,8 @@
                         kuglekalot makeret for at illustrere formel for krum
                         overflade af kuglekalot."></td>
                 </tr>
-                <tr><td>Rumfang</td></tr>
+                <tr><td class="tableHeading" colspan="2"><b>Rumfang</b></td>
+                </tr>
                 <tr>
                     <td>
                         <i>Keglestub</i>
@@ -198,24 +230,26 @@
                         makeret i kugle, for at illustrere formel for volume af
                         kugleafsnit."></td>
                 </tr>
-                <tr><td>Andet</td></tr>
+                <tr><td class="tableHeading" colspan="2"><b>Andet</b></td></tr>
                 <tr>
-                    <td>
+                    <td colspan="2">
                         <i>Radianer og grader</i>
                         $$1\ radian = \frac{180°}{\pi}$$
                         $$1°=\frac{\pi}{180°}$$
                     </td>
                 </tr>
             </table>
+
             <h3>Fysik &amp; Kemi</h3>
             <table>
-                <tr><td>Kræfter og bevægelse</td></tr>
+                <tr><td class="tableHeading" colspan="3"><b>Kræfter og bevægelse
+                </b></td></tr>
                 <tr>
                     <td>
                         <i>Isaac Newtons anden lov</i>
                         $$F_{res}=m*a$$
                     </td>
-                    <td><img src="ki_afslut/newton.png" alt="Illustration af
+                    <td colspan="2"><img src="ki_afslut/newton.png" alt="Illustration af
                         Newtons anden lov. En faldende kasse med kræfter
                         indskrevet."></td>
                 </tr>
@@ -226,11 +260,11 @@
                         <i>Tyngdeacceleration</i>
                         $$g=9,82\ \frac{m}{s^2}$$
                     </td>
-                    <td><img src="ki_afslut/tyngde.png" alt="Et faldende legeme
+                    <td colspan="2"><img src="ki_afslut/tyngde.png" alt="Et faldende legeme
                         med tyngdekraft illustreret nedadgående"></td>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Idealgasloven</i>
                         $$P*V=n*R*T$$
                         <i>Gaskonstanten</i>
@@ -238,22 +272,23 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Stedfunktionen for bevægelse med konstant
                             acceleration</i>
                         $$s=\frac{1}{2}*a*t^2$$
                         $$s=\frac{1}{2}*a*t^2+v_0*t+s_0$$
                     </td>
                 </tr>
-                <tr><td>Energi og Effekt</td></tr>
+                <tr><td class="tableHeading" colspan="3"><b>Energi og Effekt</b>
+                </td></tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Effekt (energi over tid)</i>
                         $$P=\frac{E}{T}$$
                     </td>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Varmetilførelse</i>
                         $$Q=m*c*ΔT$$
                         $$c=specifik varmekapacitet$$
@@ -264,12 +299,12 @@
                         <i>Transmissionstabseffekt</i>
                         $$P=konstant*ΔT$$
                     </td>
-                    <td><img src="ki_afslut/varme.png" alt="Illustration af
+                    <td colspan="2"><img src="ki_afslut/varme.png" alt="Illustration af
                         varme der siver ud af et hus."></td>
                 </tr>
-                <tr><td>Andet</td></tr>
+                <tr><td class="tableHeading" colspan="3"><b>Andet</b></td></tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Densitet</i>
                         $$ρ=\frac{m}{V}$$
                     </td>
@@ -281,19 +316,20 @@
                         $$m=M*n$$
                         $$M=\frac{m}{n}$$
                     </td>
-                    <td><img src="ki_afslut/trekant_kemi.png" alt="Illustration
+                    <td colspan="2"><img src="ki_afslut/trekant_kemi.png" alt="Illustration
                         af mængdeberegningstrekanten for hurtig udregning"></td>
                 </tr>
                 <tr>
-                    <td>
+                    <td colspan="3">
                         <i>Brændværdi</i>
                         $$Q=\frac{E}{m}$$
                     </td>
                 </tr>
-                <tr><td>Symboler og enheder (SI-enheder)</td></tr>
+                <tr><td class="tableHeading" colspan="3"><b>
+                    Symboler og enheder (SI-enheder)</b></td></tr>
                 <tr>
                     <td>Masse <i>[m]</i></td>
-                    <td>Kilogram</td>
+                    <td>$$Kilogram$$</td>
                     <td>$$kg$$</td>
                 </tr>
                 <tr>
@@ -303,7 +339,7 @@
                 </tr>
                 <tr>
                     <td>Kraft <i>[F]</i></td>
-                    <td>Newton</td>
+                    <td>$$Newton$$</td>
                     <td>$$N$$</td>
                 </tr>
                 <tr>
@@ -311,17 +347,17 @@
                         <p>Energi <i>[E]</i></p>
                         <p>Varmeenergi <i>[Q]</i></p>
                     </td>
-                    <td>Joule</td>
+                    <td>$$Joule$$</td>
                     <td>$$J$$</td>
                 </tr>
                 <tr>
                     <td>Effekt <i>[P]</i></td>
-                    <td>Watt</td>
+                    <td>$$Watt$$</td>
                     <td>$$W$$</td>
                 </tr>
                 <tr>
                     <td>Tryk <i>[P]</i></td>
-                    <td>Pascal</td>
+                    <td>$$Pascal$$</td>
                     <td>$$Pa$$</td>
                 </tr>
                 <tr>
@@ -331,22 +367,22 @@
                 </tr>
                 <tr>
                     <td>Stofmængde <i>[n]</i></td>
-                    <td>Mol</td>
+                    <td>$$Mol$$</td>
                     <td>$$mol$$</td>
                 </tr>
                 <tr>
                     <td>Temperatur <i>[T]</i></td>
-                    <td>Kelvin</td>
+                    <td>$$Kelvin$$</td>
                     <td>$$K$$</td>
                 </tr>
                 <tr>
                     <td>Tid <i>[t]</i></td>
-                    <td>Sekunder</td>
+                    <td>$$Sekunder$$</td>
                     <td>$$s$$</td>
                 </tr>
                 <tr>
                     <td>Strækning/længde <i>[s]</i></td>
-                    <td>Meter</td>
+                    <td>$$Meter$$</td>
                     <td>$$m$$</td>
                 </tr>
                 <tr>
