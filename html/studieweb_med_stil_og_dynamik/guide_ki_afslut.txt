@@ -1,0 +1,2 @@
+.html dokumentet af opbygget så du selv kan tilføje din egen navigationsbar, footer osv. 
+OBS: Det er vigtigt at ki_afslut mappen ligger i samme sti mappe ki_afslut.html, (samme sti som her).
