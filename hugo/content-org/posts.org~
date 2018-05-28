@@ -1,0 +1,61 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: posts
+
+* Om
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:EXPORT_DATE: 01. januar 2018
+:EXPORT_DESCRIPTION: about
+:EXPORT_HUGO_SECTION: page
+:END:
+
+Dette er Studiewebet for Mikael Zhang, 2.4 fra *HTX* ➔ *Roskilde*. Siden
+var udviklet som et skoleprojekt i faget Kommunikation/IT. Du kan
+forvente at læse mine afleveret opgaver fra faget her på siden, samt
+selve studieweb opgaven selv.
+
+* Projekter
+** Test post
+:PROPERTIES:
+:EXPORT_FILE_NAME: testpost
+:EXPORT_DATE: 01. januar 2018
+:EXPORT_DESCRIPTION: example post
+:END: 
+
+Lorem ipsum dolor amet pickled echo park food truck, glossier PBR&B tote bag unicorn. Man bun cliche small batch jean shorts yuccie venmo dreamcatcher 90's hella subway tile. Paleo lyft salvia, neutra street art portland yuccie asymmetrical raclette jean shorts jianbing trust fund gochujang. Lumbersexual flannel organic tote bag gluten-free shabby chic activated charcoal gochujang glossier sustainable offal live-edge umami. Cornhole iPhone raclette ramps knausgaard craft beer.
+
+Butcher mumblecore jianbing YOLO live-edge 90's church-key. Kickstarter 3 wolf moon marfa kitsch tousled shabby chic af distillery single-origin coffee gentrify pok pok paleo. Tattooed raclette fashion axe synth keffiyeh. Mumblecore banjo unicorn vegan wayfarers.
+
+Prism roof party before they sold out, williamsburg kinfolk raclette helvetica pork belly iPhone. Neutra yuccie edison bulb shaman poutine squid wayfarers godard taxidermy try-hard. Vegan selvage post-ironic blue bottle, hammock intelligentsia heirloom. You probably haven't heard of them crucifix pickled authentic dreamcatcher disrupt raw denim echo park synth jean shorts. Asymmetrical offal ethical vaporware mustache knausgaard.
+
+Green juice YOLO keffiyeh pop-up single-origin coffee intelligentsia hella. Subway tile stumptown succulents godard pitchfork try-hard trust fund listicle cloud bread locavore art party kale chips. Shabby chic mlkshk synth, literally yuccie lumbersexual organic distillery stumptown tousled biodiesel pork belly gluten-free. Etsy gluten-free organic vegan.
+
+Thundercats tbh occupy try-hard echo park poutine vinyl tumblr cloud bread readymade. Ramps DIY scenester unicorn taiyaki pinterest artisan schlitz irony. Fanny pack seitan crucifix helvetica narwhal. VHS kombucha hoodie brunch, listicle bitters migas freegan irony forage tacos. Subway tile brunch XOXO, organic selfies photo booth activated charcoal church-key banh mi. Literally food truck tote bag narwhal poutine adaptogen.
+
+Drinking vinegar gentrify craft beer narwhal occupy succulents aesthetic, humblebrag health goth single-origin coffee vexillologist yr chartreuse plaid direct trade. Mlkshk seitan tacos drinking vinegar XOXO. Marfa listicle raclette selvage, bushwick ennui bespoke shoreditch 90's kinfolk umami cornhole microdosing. Banjo vape actually unicorn butcher tousled microdosing organic whatever chillwave deep v. Hashtag four dollar toast dreamcatcher tote bag vinyl blog neutra cold-pressed.
+
+Tacos cardigan knausgaard cold-pressed master cleanse art party skateboard forage truffaut succulents taiyaki kombucha lumbersexual. Af godard intelligentsia hexagon flexitarian hell of post-ironic heirloom +1 kale chips banjo poutine. Post-ironic heirloom readymade hoodie XOXO fixie austin biodiesel 90's. Gastropub mlkshk church-key raw denim. Cornhole roof party meh, green juice banjo artisan street art austin enamel pin. Food truck neutra pop-up, lumbersexual swag vaporware +1 succulents austin truffaut. Williamsburg cronut austin iceland keffiyeh cliche +1 leggings ennui fanny pack succulents air plant asymmetrical.
+
+Coloring book vape taiyaki iPhone umami adaptogen unicorn actually pop-up keytar humblebrag flannel you probably haven't heard of them cold-pressed yuccie. Lyft microdosing truffaut, art party typewriter cronut selfies brooklyn. Readymade affogato flexitarian wolf. Salvia cred 8-bit, lo-fi pok pok fam vaporware lyft air plant man bun enamel pin mlkshk raclette whatever tilde.
+
+Waistcoat cray yr subway tile blue bottle taxidermy fanny pack you probably haven't heard of them shaman. Kogi hoodie farm-to-table mixtape, before they sold out hammock freegan disrupt microdosing. Palo santo etsy pop-up lo-fi four dollar toast, cloud bread iPhone poutine cold-pressed mlkshk af heirloom PBR&B pour-over tumeric. Everyday carry marfa cliche taiyaki, paleo waistcoat semiotics godard fam offal sriracha poutine 90's. Helvetica keytar seitan shaman dreamcatcher adaptogen kitsch crucifix iceland squid tilde knausgaard bicycle rights.
+
+Vice occupy shoreditch irony hot chicken taxidermy microdosing etsy tacos keffiyeh polaroid PBR&B. Taxidermy lo-fi freegan vape next level put a bird on it plaid brooklyn salvia vice twee shoreditch sartorial pork belly irony. Jean shorts organic af mixtape truffaut, mlkshk fanny pack fingerstache artisan skateboard slow-carb tacos jianbing thundercats. Literally street art blog jianbing, master cleanse kogi vape subway tile irony kitsch leggings intelligentsia snackwave hexagon. Distillery try-hard pabst iceland listicle adaptogen godard af man braid marfa shabby chic fashion axe fingerstache mlkshk.
+
+Oh. You need a little dummy text for your mockup? How quaint.
+
+I bet you’re still using Bootstrap too…
+
+
+Test
+
+** Test post2
+:PROPERTIES:
+:EXPORT_FILE_NAME: testpost2
+:EXPORT_DATE: 02. januar 2018
+:EXPORT_DESCRIPTION: example post2
+:END: 
+
+Test2
+

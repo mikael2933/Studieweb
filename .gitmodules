@@ -1,0 +1,9 @@
+[submodule "hugo/themes/potato-dark"]
+	path = hugo/themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark.git
+[submodule "hugo/themes/themes/blank"]
+	path = hugo/themes/themes/blank
+	url = https://github.com/multimikael/blank.git
+[submodule "hugo/themes/blank"]
+	path = hugo/themes/blank
+	url = https://github.com/multimikael/blank.git

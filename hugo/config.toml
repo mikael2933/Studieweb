@@ -1,0 +1,12 @@
+baseURL = "https://www.rtgkom.dk/~mikaelz16"
+languageCode = "da"
+footnoteReturnLinkContents = "↩"
+title = "Mikael Zhang 2.4 - Studieweb"
+theme = "blank"
+
+[params]
+  AuthorName = "Mikael Zhang"
+  GitHubUser = "multimikael"
+
+[blackfriday]
+hrefTargetBlank = true

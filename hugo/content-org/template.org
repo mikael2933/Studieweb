@@ -1,0 +1,6 @@
+** Heading
+:PROPERTIES:
+:EXPORT_FILE_NAME: filename
+:EXPORT_DATE: 01. januar 2018
+:EXPORT_DESCRIPTION: example post
+:END: 
